@@ -1,6 +1,6 @@
 # learnJs
   let srName = prompt('Во сколько начинаеться аперетив?');
-  if (srName == 'Аперетив'){
+  if (srName == 'Апер етив'){
 
   let pass = prompt('Ведите пароль', 999);
   if (pass == 'Aperetiv'){
