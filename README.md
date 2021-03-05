@@ -1,5 +1,5 @@
 # learnJs
-  let srName = prompt('Во сколько начинаеться аперетив?');
+  let usrName = prompt('Во сколько начинаеться аперетив?');
   if (srName == 'Аперетив);
 
 
