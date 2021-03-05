@@ -7,7 +7,7 @@
   if (pass == 'Aperetiv'){
 
     alert('Добро пожаловать');
-  } else if (pass == '' || pass == null){
+  } else if (pass == '' || pass == null){ 
     alert('Не пройдешь')
   } else {
     alert('Нет входа')
