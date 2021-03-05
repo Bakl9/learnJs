@@ -13,7 +13,7 @@
     alert('Нет входа')
   }
 
-  } else if (srName == '' || srName == null){
+  } else if (usrName == '' || srName == null){
     alert('Отмена')
   } else {
     alert ('Не правильное имя')
